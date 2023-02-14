@@ -20,7 +20,7 @@ Hello, World
 
 
 def main():
-    # YOUR CODE HERE
+    pass # YOUR CODE HERE
 
 
 if __name__ == '__main__':
