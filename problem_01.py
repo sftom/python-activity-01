@@ -15,12 +15,12 @@ Processes:
 Você deve imprimir a mensagem "Hello, World!"
 
 Output(s):
-Hello, World
+Hello, World!
 """
 
 
 def main():
-    pass # YOUR CODE HERE
+    pass # your code here
 
 
 if __name__ == '__main__':

@@ -31,11 +31,7 @@ Levará 60 min.
 
 
 def main():
-    distancia = int(input("Digite a distância (em km) desejada: "))
-
-    tempo = int(distancia * 2)
-
-    print(f"Levará {tempo} min.")
+    pass # your code here
 
 
 if __name__ == '__main__':
