@@ -21,7 +21,7 @@ maiorAB = (a + b + abs(a - b)) / 2
 Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
 
 Output(s):
-Imprima todos os números pares entre 1 e 100, inclusive se for o caso, um em cada linha.
+Imprima conforme exemplo a seguir.
 Exemplo:
 O maior número é: 106
 """
